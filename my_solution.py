@@ -1,4 +1,3 @@
-문제 1
 The function will be run again next time.  To prevent this, execute:
   touch ~/.zshrc
 c3r1s2% python
